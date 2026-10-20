@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-20",
+  "articles": [
+    {
+      "category": "Scienza",
+      "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+      "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. An Anticrepuscular […]",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/"
+    },
+    {
+      "category": "Scienza",
+      "title": "The Human Fingerprint on Earth’s Water Cycle",
+      "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/"
+    },
+    {
+      "category": "Scienza",
+      "title": "Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By",
+      "summary": "Written by Alex Innanen, Atmospheric Scientist at York University Earth planning date: Friday, Oct. 9, 2026 Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude […]",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/"
+    },
+    {
+      "category": "Scienza",
+      "title": "Bundle water safeguards into critical-mineral licences",
+      "summary": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03353-z Bundle water safeguards into critical-mineral licences",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03353-z"
+    },
+    {
+      "category": "Sport",
+      "title": "We were not underprepared for World Cup, says England's O'Neill",
+      "summary": "England's Brad O'Neill has dismissed the suggestion they were underprepared for their Rugby League World Cup campaign as they bid to start salvaging it with an unchanged team against France.",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cmd6d3gj2znxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
+      "summary": "British long-distance runner Jake Smith was enduring a relentless pattern of race, illness, injury, repeat - he had no idea he had REDs and was under-fuelling.",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "Boulter produces emphatic win at Japan Open",
+      "summary": "Britain's Katie Boulter claims a dominant win in her rain-affected first-round match against Himeno Sakatsume in the Japan Open.",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/c9vgrnnnz014o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "Lowry joins McIlroy in first ever TGL Trade",
+      "summary": "Shane Lowry is the first player to be traded in the TMRW Golf League (TGL) as he joins Rory McIlroy at Boston Common Golf for 2027.",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/golf/articles/cr93z192e211o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "AI",
+      "title": "A visit to Samsung’s massive new semiconductor hub",
+      "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/"
+    },
+    {
+      "category": "AI",
+      "title": "These startups hope “blended” food will cut our appetite for red meat",
+      "summary": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a taste test. When the first rush of about 150 hungry students hit, he was waiting with slow cookers filled with steaming marinara sauce and meatballs. Kids love…",
+      "why": "",
+      "published": "2026-10-20",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/"
+    },
+    {
+      "category": "AI",
+      "title": "Advancing coding in low‑resource programming languages",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "why": "",
+      "published": "2026-10-19",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/low-resource-programming-languages"
+    },
+    {
+      "category": "Startup",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+      "why": "",
+      "published": "2026-10-19",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/"
+    }
+  ],
+  "outsideRadar": null,
+  "idea": null,
+  "watch": [],
+  "editorialNote": "Estratti RSS attribuiti, non articoli originali verificati integralmente."
+}
