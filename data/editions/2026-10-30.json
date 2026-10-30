@@ -1,0 +1,117 @@
+{
+  "date": "2026-10-30",
+  "articles": [
+    {
+      "category": "Scienza",
+      "title": "November’s Night Sky Notes: Light-Day Away",
+      "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]",
+      "why": "",
+      "published": "2026-10-30",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/"
+    },
+    {
+      "category": "Scienza",
+      "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+      "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]",
+      "why": "",
+      "published": "2026-10-30",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/"
+    },
+    {
+      "category": "Scienza",
+      "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+      "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]",
+      "why": "",
+      "published": "2026-10-30",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/"
+    },
+    {
+      "category": "Sport",
+      "title": "England edge towards World Cup exit despite PNG win",
+      "summary": "England edge towards a World Cup exit after their points chase against Papua New Guinea descends into a chaotic and error-strewn 34-12 victory that will almost certainly prove insufficient.",
+      "why": "",
+      "published": "2026-10-30",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cx30e28vn5r4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "Why managers must put their own fitness first - Pulis",
+      "summary": "BBC Sport columnist Tony Pulis explains why Vincent Kompany's health scare was a reminder that management takes its toll physically and mentally",
+      "why": "",
+      "published": "2026-10-30",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqy0r31kwne0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "F1 has never had anyone like me - Hamilton",
+      "summary": "Lewis Hamilton says he is unlike any driver Formula 1 has seen before and reaffirms a determination to keep racing into his mid-forties.",
+      "why": "",
+      "published": "2026-10-30",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cmvg9z1v33keo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "Anderson 'shocked' by Lancs exit and unsure if he will continue",
+      "summary": "Speaking for the first time since his Lancashire exit, James Anderson says the decision made him question whether is \"something fundamentally wrong with me as a person\".",
+      "why": "",
+      "published": "2026-10-30",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/cricket/articles/cmly0pq7435lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "AI",
+      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
+      "summary": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent something more sinister—a potential trigger for eating disorders. A new report suggests that the global incidence of anorexia nervosa and bulimia nervosa shot up between 1990 and 2023—by a whopping 71%. By 2023,…",
+      "why": "",
+      "published": "2026-10-30",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/"
+    },
+    {
+      "category": "AI",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "why": "",
+      "published": "2026-10-29",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/updated-model-spec"
+    },
+    {
+      "category": "AI",
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "why": "",
+      "published": "2026-10-29",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+    },
+    {
+      "category": "AI",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "why": "",
+      "published": "2026-10-29",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence"
+    },
+    {
+      "category": "Startup",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "summary": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
+      "why": "",
+      "published": "2026-10-29",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+    }
+  ],
+  "outsideRadar": null,
+  "idea": null,
+  "watch": [],
+  "editorialNote": "Estratti RSS attribuiti, non articoli originali verificati integralmente."
+}
