@@ -1,0 +1,117 @@
+{
+  "date": "2026-11-05",
+  "articles": [
+    {
+      "category": "AI",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+    },
+    {
+      "category": "Scienza",
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Enceladus in Silhouette […]",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/"
+    },
+    {
+      "category": "Scienza",
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/"
+    },
+    {
+      "category": "Scienza",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore […]",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/"
+    },
+    {
+      "category": "Scienza",
+      "title": "The hidden cost of flexible work in academia: women do more parenting",
+      "summary": "Nature, Published online: 05 November 2026; doi:10.1038/d41586-026-03568-0 Policies designed to keep women in the workforce could be entrenching gendered parenting roles.",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/d41586-026-03568-0"
+    },
+    {
+      "category": "Sport",
+      "title": "Ronaldo's most iconic moments as he retires from international football",
+      "summary": "BBC Sport looks at some of the most iconic moments from the career of Cristiano Ronaldo as he retires from international football.",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "Who could be the next England debutant and who are the potential recalls?",
+      "summary": "It's the last international break of the year and England have some big games in the Nations League coming up. Thomas Tuchel has big decisions to make on his next squad selection.",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw4g1rdn2nl8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "Sheffield-born Jorgensen out to inflict more pain on England",
+      "summary": "Max Jorgensen was eligble for England, but insists he was always intent on continuing the family tradition of representing the Wallabies.",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmze4zzz2wl8o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "Sport",
+      "title": "Wales opt for centre power pair against Japan",
+      "summary": "Wales head coach Steve Tandy has selected Max Llewellyn alongside Eddie James in midfield to face Japan in the Nations Championship on Saturday.",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "BBC Sport",
+      "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9146d7g0reyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+      "category": "AI",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/"
+    },
+    {
+      "category": "AI",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally…",
+      "why": "",
+      "published": "2026-11-05",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/"
+    },
+    {
+      "category": "AI",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "why": "",
+      "published": "2026-11-04",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+    }
+  ],
+  "outsideRadar": null,
+  "idea": null,
+  "watch": [],
+  "editorialNote": "Estratti RSS attribuiti, non articoli originali verificati integralmente."
+}
